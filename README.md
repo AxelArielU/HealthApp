@@ -20,3 +20,9 @@ Facilitar la gestión de información de pacientes mediante una aplicación móv
 
 \- Configuración del sistema
 
+
+
+\## Inicio de sesión
+
+El sistema permitirá a los usuarios acceder mediante sus credenciales.
+
