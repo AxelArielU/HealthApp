@@ -26,3 +26,9 @@ Facilitar la gestión de información de pacientes mediante una aplicación móv
 
 El sistema permitirá a los usuarios acceder mediante sus credenciales.
 
+
+
+\## Registro de pacientes
+
+El sistema permitiría registrar la información básica de los pacientes.
+
