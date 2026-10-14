@@ -1,2 +1,2 @@
 APP_NAME=HealthApp
-API_URL=https://login.healthapp.test
+API_URL=https://api.healthapp.test
